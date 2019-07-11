@@ -1,4 +1,4 @@
-# Caeser's Cipher Coding Test
+# Caesar's Cipher Coding Test
 
 Julius Caesar protected his confidential information by encrypting it using a cipher.
 
