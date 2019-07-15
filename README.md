@@ -25,3 +25,8 @@ Create a function called `caesar_cipher` that returns the encrypted string.
 
 `> caesar_cipher(middle-Outz, 2)`
 `> okffng-Qwvb`
+
+** Testing **
+From the Python command line:
+`> from test_caesar import CaesarTest`
+`> CaesarTest().test()``
